@@ -1,0 +1,1 @@
+# example-gitignore-template-for-dotnet-visualstudio
